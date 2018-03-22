@@ -1,0 +1,6 @@
+default["webserver"]["name"] = "tom1299"
+default["webserver"]["jbosspath"] = "/usr/jboss/jbossweb"
+default["webserver"]["instance"] = "krishna"
+default["webserver"]["port0"] = "8080"
+default["webserver"]["port1"] = "8180"
+default["webserver"]["port2"] = "8280"
